@@ -1,0 +1,34 @@
+body {
+  background: black;
+  font-family: 'Actor';
+}
+
+h1 {
+  color: #4dd2ff;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+h2 {
+  color: aliceblue;
+  font-weight: bold;
+  margin-top: -40px;
+}
+
+p {
+  color: aliceblue;
+}
+
+.contenedor {
+  text-align: center;
+}
+
+.contacto {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.linea {
+  border-bottom: 2px solid white;
+}
+
